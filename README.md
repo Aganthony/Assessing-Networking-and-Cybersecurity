@@ -1,4 +1,3 @@
-# Assessing-Networking-and-Cybersecurity
 # Assessing Networking and Cybersecurity
 
 ### What do I know?
